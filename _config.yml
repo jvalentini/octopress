@@ -2,12 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://www.colabbit.com
+title: The Blog of Justin Valentini
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Justin Valentini
 simple_search: http://google.com/search
-description:
+description: The blog of Justin Valentini
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: jvalentini
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: just4ever
 twitter_tweet_button: true
 
 # Google +1
